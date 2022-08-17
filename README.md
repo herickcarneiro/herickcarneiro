@@ -1,4 +1,4 @@
-### Olá, me chamo Herick Carneiro, estudante de Ciência da Computação 👋
+### Olá, me chamo Herick Carneiro, sou estudante de Ciência da Computação 👋
 
 
 - 🔭 Atualmente faço pesquisas na área de Inteligência Artificial;
